@@ -1,1 +1,1 @@
-# keras_study
+# deeplearning_study
